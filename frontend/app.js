@@ -1,5 +1,5 @@
 // API endpoint
-const API_URL = 'http://localhost:8000';
+const API_URL = 'https://plasmaltp-rag.onrender.com';
 
 // DOM elements
 const questionInput = document.getElementById('questionInput');
