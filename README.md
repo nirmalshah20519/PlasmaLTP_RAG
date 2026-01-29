@@ -64,7 +64,7 @@ NEO4J_DATABASE=neo4j
 # Together AI Configuration
 TOGETHER_API_KEY=your-together-api-key-here
 EMBED_MODEL=BAAI/bge-base-en-v1.5
-CHAT_MODEL=meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo
+CHAT_MODEL=CHAT_MODEL=mistralai/Mistral-7B-Instruct-v0.3
 EMBEDDING_DIMENSION=768
 
 # Application Configuration
