@@ -13,7 +13,7 @@ logger = logging.getLogger(__name__)
 # Together chat completions endpoint (OpenAI-compatible)
 TOGETHER_CHAT_URL = "https://api.together.xyz/v1/chat/completions"
 # Fallback chat model if configured model returns 400 (e.g. deprecated name)
-TOGETHER_CHAT_FALLBACK_MODEL = "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo"
+TOGETHER_CHAT_FALLBACK_MODEL = "meta-llama/Llama-3.1-8B-Instruct-Turbo"
 
 
 class Generator:
